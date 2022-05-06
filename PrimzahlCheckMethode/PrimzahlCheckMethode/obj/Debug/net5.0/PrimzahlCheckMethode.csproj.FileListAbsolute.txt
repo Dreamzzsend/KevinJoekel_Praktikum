@@ -1,0 +1,16 @@
+C:\Users\Joekel\source\repos\PrimzahlCheckMethode\PrimzahlCheckMethode\bin\Debug\net5.0\PrimzahlCheckMethode.exe
+C:\Users\Joekel\source\repos\PrimzahlCheckMethode\PrimzahlCheckMethode\bin\Debug\net5.0\PrimzahlCheckMethode.deps.json
+C:\Users\Joekel\source\repos\PrimzahlCheckMethode\PrimzahlCheckMethode\bin\Debug\net5.0\PrimzahlCheckMethode.runtimeconfig.json
+C:\Users\Joekel\source\repos\PrimzahlCheckMethode\PrimzahlCheckMethode\bin\Debug\net5.0\PrimzahlCheckMethode.runtimeconfig.dev.json
+C:\Users\Joekel\source\repos\PrimzahlCheckMethode\PrimzahlCheckMethode\bin\Debug\net5.0\PrimzahlCheckMethode.dll
+C:\Users\Joekel\source\repos\PrimzahlCheckMethode\PrimzahlCheckMethode\bin\Debug\net5.0\ref\PrimzahlCheckMethode.dll
+C:\Users\Joekel\source\repos\PrimzahlCheckMethode\PrimzahlCheckMethode\bin\Debug\net5.0\PrimzahlCheckMethode.pdb
+C:\Users\Joekel\source\repos\PrimzahlCheckMethode\PrimzahlCheckMethode\obj\Debug\net5.0\PrimzahlCheckMethode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joekel\source\repos\PrimzahlCheckMethode\PrimzahlCheckMethode\obj\Debug\net5.0\PrimzahlCheckMethode.AssemblyInfoInputs.cache
+C:\Users\Joekel\source\repos\PrimzahlCheckMethode\PrimzahlCheckMethode\obj\Debug\net5.0\PrimzahlCheckMethode.AssemblyInfo.cs
+C:\Users\Joekel\source\repos\PrimzahlCheckMethode\PrimzahlCheckMethode\obj\Debug\net5.0\PrimzahlCheckMethode.csproj.CoreCompileInputs.cache
+C:\Users\Joekel\source\repos\PrimzahlCheckMethode\PrimzahlCheckMethode\obj\Debug\net5.0\PrimzahlCheckMethode.dll
+C:\Users\Joekel\source\repos\PrimzahlCheckMethode\PrimzahlCheckMethode\obj\Debug\net5.0\ref\PrimzahlCheckMethode.dll
+C:\Users\Joekel\source\repos\PrimzahlCheckMethode\PrimzahlCheckMethode\obj\Debug\net5.0\PrimzahlCheckMethode.pdb
+C:\Users\Joekel\source\repos\PrimzahlCheckMethode\PrimzahlCheckMethode\obj\Debug\net5.0\PrimzahlCheckMethode.genruntimeconfig.cache
+C:\Users\Joekel\source\repos\PrimzahlCheckMethode\PrimzahlCheckMethode\obj\Debug\net5.0\PrimzahlCheckMethode.csproj.AssemblyReference.cache

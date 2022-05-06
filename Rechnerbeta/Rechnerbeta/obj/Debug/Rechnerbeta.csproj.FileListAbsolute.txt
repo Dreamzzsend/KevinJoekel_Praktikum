@@ -1,0 +1,10 @@
+C:\Users\Joekel\source\repos\Rechnerbeta\Rechnerbeta\bin\Debug\Rechnerbeta.exe.config
+C:\Users\Joekel\source\repos\Rechnerbeta\Rechnerbeta\bin\Debug\Rechnerbeta.exe
+C:\Users\Joekel\source\repos\Rechnerbeta\Rechnerbeta\bin\Debug\Rechnerbeta.pdb
+C:\Users\Joekel\source\repos\Rechnerbeta\Rechnerbeta\obj\Debug\Rechnerbeta.csproj.AssemblyReference.cache
+C:\Users\Joekel\source\repos\Rechnerbeta\Rechnerbeta\obj\Debug\Rechnerbeta.Form1.resources
+C:\Users\Joekel\source\repos\Rechnerbeta\Rechnerbeta\obj\Debug\Rechnerbeta.Properties.Resources.resources
+C:\Users\Joekel\source\repos\Rechnerbeta\Rechnerbeta\obj\Debug\Rechnerbeta.csproj.GenerateResource.cache
+C:\Users\Joekel\source\repos\Rechnerbeta\Rechnerbeta\obj\Debug\Rechnerbeta.csproj.CoreCompileInputs.cache
+C:\Users\Joekel\source\repos\Rechnerbeta\Rechnerbeta\obj\Debug\Rechnerbeta.exe
+C:\Users\Joekel\source\repos\Rechnerbeta\Rechnerbeta\obj\Debug\Rechnerbeta.pdb

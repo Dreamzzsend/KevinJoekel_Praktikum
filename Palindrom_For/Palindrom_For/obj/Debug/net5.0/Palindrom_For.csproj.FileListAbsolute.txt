@@ -1,0 +1,16 @@
+C:\Users\Joekel\source\repos\Palindrom_For\Palindrom_For\bin\Debug\net5.0\Palindrom_For.exe
+C:\Users\Joekel\source\repos\Palindrom_For\Palindrom_For\bin\Debug\net5.0\Palindrom_For.deps.json
+C:\Users\Joekel\source\repos\Palindrom_For\Palindrom_For\bin\Debug\net5.0\Palindrom_For.runtimeconfig.json
+C:\Users\Joekel\source\repos\Palindrom_For\Palindrom_For\bin\Debug\net5.0\Palindrom_For.runtimeconfig.dev.json
+C:\Users\Joekel\source\repos\Palindrom_For\Palindrom_For\bin\Debug\net5.0\Palindrom_For.dll
+C:\Users\Joekel\source\repos\Palindrom_For\Palindrom_For\bin\Debug\net5.0\ref\Palindrom_For.dll
+C:\Users\Joekel\source\repos\Palindrom_For\Palindrom_For\bin\Debug\net5.0\Palindrom_For.pdb
+C:\Users\Joekel\source\repos\Palindrom_For\Palindrom_For\obj\Debug\net5.0\Palindrom_For.csproj.AssemblyReference.cache
+C:\Users\Joekel\source\repos\Palindrom_For\Palindrom_For\obj\Debug\net5.0\Palindrom_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joekel\source\repos\Palindrom_For\Palindrom_For\obj\Debug\net5.0\Palindrom_For.AssemblyInfoInputs.cache
+C:\Users\Joekel\source\repos\Palindrom_For\Palindrom_For\obj\Debug\net5.0\Palindrom_For.AssemblyInfo.cs
+C:\Users\Joekel\source\repos\Palindrom_For\Palindrom_For\obj\Debug\net5.0\Palindrom_For.csproj.CoreCompileInputs.cache
+C:\Users\Joekel\source\repos\Palindrom_For\Palindrom_For\obj\Debug\net5.0\Palindrom_For.dll
+C:\Users\Joekel\source\repos\Palindrom_For\Palindrom_For\obj\Debug\net5.0\ref\Palindrom_For.dll
+C:\Users\Joekel\source\repos\Palindrom_For\Palindrom_For\obj\Debug\net5.0\Palindrom_For.pdb
+C:\Users\Joekel\source\repos\Palindrom_For\Palindrom_For\obj\Debug\net5.0\Palindrom_For.genruntimeconfig.cache

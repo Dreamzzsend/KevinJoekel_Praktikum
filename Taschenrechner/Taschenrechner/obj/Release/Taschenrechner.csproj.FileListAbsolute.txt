@@ -1,0 +1,9 @@
+C:\Users\Joekel\source\repos\Taschenrechner\Taschenrechner\bin\Release\Taschenrechner.exe.config
+C:\Users\Joekel\source\repos\Taschenrechner\Taschenrechner\bin\Release\Taschenrechner.exe
+C:\Users\Joekel\source\repos\Taschenrechner\Taschenrechner\bin\Release\Taschenrechner.pdb
+C:\Users\Joekel\source\repos\Taschenrechner\Taschenrechner\obj\Release\Taschenrechner.Form1.resources
+C:\Users\Joekel\source\repos\Taschenrechner\Taschenrechner\obj\Release\Taschenrechner.Properties.Resources.resources
+C:\Users\Joekel\source\repos\Taschenrechner\Taschenrechner\obj\Release\Taschenrechner.csproj.GenerateResource.cache
+C:\Users\Joekel\source\repos\Taschenrechner\Taschenrechner\obj\Release\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\Joekel\source\repos\Taschenrechner\Taschenrechner\obj\Release\Taschenrechner.exe
+C:\Users\Joekel\source\repos\Taschenrechner\Taschenrechner\obj\Release\Taschenrechner.pdb
